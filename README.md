@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <h3 align="center">A fullstack developer and a Software Engineer Student from Colombia</h3>
