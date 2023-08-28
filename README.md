@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ricardo-andr%c3%a9s-coronado-gonz%c3%a1lez-0b881b1a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ricardo-andr%c3%a9s-coronado-gonz%c3%a1lez-0b881b1a7/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ricardo-andr%C3%A9s-coronado-gonz%C3%A1lez-0b881b1a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ricardo-andr%c3%a9s-coronado-gonz%c3%a1lez-0b881b1a7/" height="30" width="40" /></a>
 <a href="https://instagram.com/ricardoacg94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ricardoacg94" height="30" width="40" /></a>
 </p>
 
